@@ -8,9 +8,12 @@ footer{
     background-color: #a3a1a0;
     color: #31312d;
     font-family: 'Courier New', Courier, monospace;
-
 }
 
 .link{
     color: #e2e2e7;
+}
+
+.intro-para::first-letter{
+    font-size: 150%;
 }
