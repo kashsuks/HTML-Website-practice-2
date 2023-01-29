@@ -1,13 +1,11 @@
 body{
     background-color: #e2e2e7;
     color: #31312d;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 footer{
     background-color: #a3a1a0;
     color: #31312d;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 .link{
@@ -16,4 +14,8 @@ footer{
 
 .intro-para::first-letter{
     font-size: 150%;
+}
+
+.button:hover{
+    text-shadow: #a3a1a0 1px 1px 0px;
 }
